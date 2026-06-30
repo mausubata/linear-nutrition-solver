@@ -1,0 +1,11 @@
+# Pythonキャッシュ
+__pycache__/
+*.py[cod]
+
+# 仮想環境
+venv/
+.venv/
+
+# ローカルデータベース
+*.db
+*.sqlite3
